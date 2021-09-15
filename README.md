@@ -1,15 +1,11 @@
-## Personal Profiles
+# Personal Profiles
 
-
-
-
-## What we have learned so far
+- [Marie](./marie.md)
 
 
 
 
 
-## What we expect to learn next
 
 
 
