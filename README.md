@@ -1,6 +1,6 @@
 ## Personal Profiles
 AnYa Huang
-Coding Learner , Yogi , Mommy , Boulder , Nationally- Taiwan
+Coding Learner , Yogi , Mommy , Boulder , Nationality- Taiwan
 
 
 
